@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+gem 'google-api-client'
+gem 'google_drive', '3.0.7'
+gem 'nokogiri'
+gem 'sys-filesystem'
+gem 'activesupport'
+gem 'dotenv-rails'
+gem 'open-uri'
+gem 'nokogiri'
