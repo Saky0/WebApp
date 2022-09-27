@@ -10,7 +10,6 @@
     * 1 - Imageblablabla.jpg / 1.5 Mb
     * 2 - AnotherImage.png / 1 Mb
     * After list all the images, it should has two options: Save all or Edit - In Edit, an image can be selected to make some change like alter the name, delete etc.
-* Após todas alterações, deve salvar as imagens no respectivo diretório
 * After all changes, the images should be saved on the respective directory on the disc
 
 Feature: 
